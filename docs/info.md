@@ -11,8 +11,8 @@ You can also include images in this folder and reference them in the markdown. E
 
 The project takes in three one-bit wide vectors and adds them together.
 ## How to test
-cycle all the input bits and verify that it adds.
-Explain how to use your project
+
+Cycle all the input bits and verify that it adds.
 
 ## External hardware
 
